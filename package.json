@@ -1,0 +1,23 @@
+{
+  "name": "execute-cli",
+  "version": "1.0.0",
+  "description": "script to run cli-command programmaticly in node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/alex-knyazev/execute-cli-command.git"
+  },
+  "keywords": [
+    "cli-command",
+    "node-cli"
+  ],
+  "author": "alexknyazev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alex-knyazev/execute-cli-command/issues"
+  },
+  "homepage": "https://github.com/alex-knyazev/execute-cli-command#readme"
+}
