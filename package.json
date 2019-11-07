@@ -1,6 +1,6 @@
 {
   "name": "execute-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "script to run cli-command programmaticly in node.js",
   "main": "index.js",
   "scripts": {
