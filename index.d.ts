@@ -1,7 +1,7 @@
 declare module 'execute-cli' {
   export default function executeCliCommand(
     bashText: string,
-    executeCliOptions: {
+    executeCliOptions?: {
       isLookForErrors: boolean;
       isSplitByEnter: boolean;
     }
